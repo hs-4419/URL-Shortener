@@ -55,10 +55,10 @@ WHERE url_shortener.id = data.id;
 __Table with inserted data__
 ![Table with 1000 rows](https://github.com/hs-4419/URL-Shortener/blob/main/Images/1000%2B%20rows.png)
 ## 4) Analysis of table post 1K insertion
-__Time Taken__
+__Time Taken__</br>
 ![Time taken for 1K insertion](https://github.com/hs-4419/URL-Shortener/blob/main/Images/Time%20taken%20for%201000%2B%20rows.png)
 
-__Space Taken__
+__Space Taken__</br>
 ![Space taken by 1K rows](https://github.com/hs-4419/URL-Shortener/blob/main/Images/Table%20size%20with%201000%2B%20rows.png)
 ## 5) Time and Space post 1M insertions
 ![Time taken for 1M insertion](https://github.com/hs-4419/URL-Shortener/blob/main/Images/Time%20taken%20for%201M%20rows.png)
